@@ -1,14 +1,14 @@
 # VKgroup Analisys 2024<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-## INFO about project
+### INFO about project
 
-### Group members and roles
+#### Group members and roles
 1. **Bolotova Ekaterina** is responsible for data analysis
 2. **Illarionov Alexey** is responsible for documentation and data collection
 
-### Key Idea of the project
+#### Key Idea of the project
 Analysis of the user's city and university based on the VK groups to which the user is subscribed.
 
-### Description  of the project
+#### Description  of the project
 <details>
   <summary>The main idea of the current project is to calculate the city and university based on user groups. We have two ideas for calculating the data:</summary>
     <ol>
@@ -21,10 +21,11 @@ Next, it is planned to compare the results obtained. We can also compare it with
       </li>
     </ol>
 </details>
+<hr>
 
-## INFO about datasets
+### INFO about datasets
 
-### ER diagram
+#### ER diagram
 
 ![sql_sheme](ERdiagram.png)
 
