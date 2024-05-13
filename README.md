@@ -26,7 +26,7 @@ Next, it is planned to compare the results obtained. We can also compare it with
 
 ### ER diagram
 
-
+![sql_sheme](ERdiagram.png)
 
 <details>
 <summary>plantUML</summary>
