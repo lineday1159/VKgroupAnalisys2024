@@ -12,7 +12,7 @@ Comparison of the results of clustering of VK groups and classification using ma
 
 The main idea of the current project is an answer is it possible to determine whether a group belongs to a certain classification, in our case it is a university, based on the connections of groups with the main representative groups of universities. 
 
-[project description](/Project_discription.pdf)
+[project description](Project_description.pdf)
 
 <hr>
 
